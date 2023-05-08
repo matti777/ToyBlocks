@@ -1,0 +1,11 @@
+<RCC>
+    <qresource prefix="/">
+        <file>skybox-sides.jpg</file>
+        <file>skybox-top.jpg</file>
+        <file>Forward.png</file>
+        <file>Info.png</file>
+        <file>blocks-texture.jpg</file>
+        <file>ground-floor.jpg</file>
+        <file>ground-fence.png</file>
+    </qresource>
+</RCC>

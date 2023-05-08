@@ -1,0 +1,15 @@
+toyblocks (1.1.0) unstable; urgency=low
+
+  * Updated graphics all around
+  * Added shadow mapping
+  * Added fences
+  * Wrote the physics calculations to run in separate thread
+
+ -- Matti Dahlbom <matti@777-team.org>  Thu, 15 Dec 2011 18:10:52 +0300
+
+toyblocks (1.0.0) unstable; urgency=low
+
+  * Initial Release.
+
+ -- Matti Dahlbom <matti@777-team.org>  Tue, 18 Oct 2011 18:10:52 +0300
+
